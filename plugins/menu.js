@@ -31,7 +31,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-┏━━〖 BOTYNYAKAMU 〗━⬣
+┏━━〖 ⳹ ❋ཻུ۪۪⸙𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯⳹ ❋ཻུ۪۪⸙ 〗━⬣
 ┃• %ucapan, %name!
 ┃
 ┃• Tanggal: *%week %weton, %date*
