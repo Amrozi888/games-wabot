@@ -10,23 +10,22 @@ let handler  = async (m, { conn, usedPrefix }) => {
   await m.reply('Wait Kakak!!')
   let neww = Math.round(performance.now())
   conn.reply(m.chat, `
-╠═〘 ${package.name} 〙 ═
+╠═〘 zifabotz 〙 ═
 ╠➥ *Versi:* ${package.version}
-╠➥ *HomePage:* ${(package.homepage ? package.homepage.url || package.homepage : '[unknown github url]')}
-╠➥ *Issue:* ${package.bugs.url}
 ╠➥ *Prefix:* ' ${usedPrefix} '
 ╠➥ *Menu:* ${usedPrefix}menu
 ╠➥ *Ping:* ${neww - old} *ms*
 ╠➥ *Total user:* ${totalreg} *user*
 ╠➥ *Uptime:* ${uptime}
 ║
-╠═〘 DONASI 〙 ═
-╠➥ Gopay: 085713964963
-╠➥ Indosat: 085713964963
-║
-╠═ Request? ${package.bugs.url}
-╠═ Official Group *${conn.user.name}* :
-${(global.linkGC).map((v, i) => '║ *Group ' + (i + 1) + '*\n║' + v).join`\n║\n`}
+{ *Donasi* }
+╭╡JANGAN LUPA DONASI BIAR BOT SELALU ONLINE!!
+│┝‷✧ *Pulsa:* 085828764046
+│┝‷✧ *Dana:* 085828764046
+│┝‷✧ *Gopay:* 085828764046
+│╰───···─────
+│⁺◛˖ Ingin Donasi? Chat nomor dibawah
+╰──────────···───http://Wa.me/6285828764046
 ║
 ║${readMore}
 ╠═〘 SYARAT & KETENTUAN Games-wabot 〙 ═
@@ -41,8 +40,8 @@ ${(global.linkGC).map((v, i) => '║ *Group ' + (i + 1) + '*\n║' + v).join`\n�
 ║   *ANDA DI DATABASE KAMI*
 ║ 
 ║ 
-╠═ ©2021 ${package.name}
-╠═ Script original by Nurutomo
+╠═ ©ZIFABOTZ
+╠═ ROZI
 ╠═〘 METRO BOT 〙 ═
 `.trim(), m)
 }
