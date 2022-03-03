@@ -1,6 +1,6 @@
 let handler = async m => m.reply(`
-*Donasi* 〙
-╭╡
+{ *Donasi* }
+╭╡JANGAN LUPA DONASI BIAR BOT SELALU ONLINE!!
 │┝‷✧ *Pulsa:* 085828764046
 │┝‷✧ *Dana:* 085828764046
 │┝‷✧ *Gopay:* 085828764046
