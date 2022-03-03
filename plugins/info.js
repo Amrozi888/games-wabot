@@ -28,7 +28,7 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ╰──────────···───http://Wa.me/6285828764046
 ║
 ║${readMore}
-╠═〘 SYARAT & KETENTUAN Games-wabot 〙 ═
+╠═〘 SYARAT & KETENTUAN ZIFABOTZ 〙 ═
 ╠➥ *KAMI TIDAK BERTANGGUNG*
 ║   *JAWAB ATAS PENYALAH*
 ║   *GUNAAN BOT*
