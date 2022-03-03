@@ -1,5 +1,5 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
+global.linkGC = ['https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv', 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
   '6285828764046': { // put your number here
@@ -19,7 +19,7 @@ global.Owner = {
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
-  '6285713964963': {
+  '6285828764046': {
     isReport: true // if true this number will send if user use command /report or /join
   },
   '13479805233': {} // ignore if you don't want anything, like name dll
@@ -53,7 +53,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'wa.me/6285828764046'
-global.author = '©BOTYNYAKAMU'
+global.author = '©️❋ཻུ۪۪ZIFABOTZ ❋ཻུ۪۪⸙'
 
 global.multiplier = 39 // The higher, The harder levelup
 
