@@ -1,11 +1,12 @@
 let handler = async m => m.reply(`
-╭─「 Donasi • Pulsa 」
-│ • Indosat [085713964963]
-│ • Gopay [085713964963]
-╰────
-╭─「 Hubungi 」
-│ > Ingin donasi? Wa.me/6281390658325
-╰────
+*Donasi* 〙
+╭╡
+│┝‷✧ *Pulsa:* 085828764046
+│┝‷✧ *Dana:* 085828764046
+│┝‷✧ *Gopay:* 085828764046
+│╰───···─────
+│⁺◛˖ Ingin Donasi? Chat nomor dibawah
+╰──────────···───http://Wa.me/6285828764046`
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
 handler.tags = ['info']
