@@ -31,22 +31,22 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-╭─「 %me 」
-│ %ucapan, %name!
-│
-│ Tanggal: *%week %weton, %date*
-│ Tanggal Islam: *%dateIslamic*
-│ Waktu: *%time*
-│
-│ Uptime: *%uptime (%muptime)*
-│ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
-╰────
+┏━━〖 %me 〗━⬣
+┃• %ucapan, %name!
+┃
+┃• Tanggal: *%week %weton, %date*
+┃• Tanggal Islam: *%dateIslamic*
+┃• Waktu: *%time*
+┃
+┃• Uptime: *%uptime*
+┃• Database: %rtotalreg of %totalreg
+┃• Instagram:
+┃• instagram.com/zalfapontianak
+┗━━━━⬣
 %readmore`.trimStart(),
-  header: '╭─「 %category 」',
-  body: '│ • %cmd %islimit %isPremium',
-  footer: '╰────\n',
+  header: '┏━━〖 %category 〗━⬣',
+  body: '┃ • %cmd %islimit %isPremium',
+  footer: '┗━━━━⬣\n',
   after: `
 *%npmname@^%version*
 ${'```%npmdesc```'}
